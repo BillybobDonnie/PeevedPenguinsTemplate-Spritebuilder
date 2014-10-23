@@ -138,7 +138,7 @@
 				<key>children</key>
 				<array/>
 				<key>customClass</key>
-				<string>play</string>
+				<string></string>
 				<key>displayName</key>
 				<string>play</string>
 				<key>memberVarAssignmentName</key>
@@ -200,7 +200,7 @@
 						<string>Block</string>
 						<key>value</key>
 						<array>
-							<string></string>
+							<string>play</string>
 							<integer>1</integer>
 						</array>
 					</dict>
@@ -455,6 +455,8 @@
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
@@ -527,8 +529,6 @@
 				</array>
 			</dict>
 		</array>
-		<key>selected</key>
-		<true/>
 	</dict>
 	<key>notes</key>
 	<array/>
