@@ -707,11 +707,11 @@
 					</dict>
 				</array>
 				<key>customClass</key>
-				<string></string>
+				<string>_contentNode</string>
 				<key>displayName</key>
 				<string>CCNode</string>
 				<key>memberVarAssignmentName</key>
-				<string>_contentNode</string>
+				<string></string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
@@ -745,10 +745,10 @@
 						<string>Size</string>
 						<key>value</key>
 						<array>
-							<real>1</real>
-							<real>1</real>
-							<integer>2</integer>
-							<integer>2</integer>
+							<real>0.0</real>
+							<real>0.0</real>
+							<integer>0</integer>
+							<integer>0</integer>
 						</array>
 					</dict>
 					<dict>
@@ -1229,9 +1229,9 @@
 			<key>name</key>
 			<string>Default Timeline</string>
 			<key>offset</key>
-			<real>5.7484378814697266</real>
+			<real>4.2151041030883789</real>
 			<key>position</key>
-			<real>8.1000003814697266</real>
+			<real>6.5666666030883789</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
