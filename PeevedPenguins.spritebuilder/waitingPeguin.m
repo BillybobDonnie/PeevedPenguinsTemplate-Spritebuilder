@@ -8,7 +8,7 @@
 
 #import "waitingPeguin.h"
 
-@implementation waitingPeguin
+@implementation waitingPenguin
 - (void)didLoadFromCCB
 {
     // generate a random number between 0.0 and 2.0
