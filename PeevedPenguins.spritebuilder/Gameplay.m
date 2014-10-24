@@ -20,7 +20,7 @@ static const float MIN_SPEED = 5.f;
     CCNode *_pullbackNode;
     CCNode *_mouseJointNode;
     CCPhysicsJoint *_mouseJoint;
-    CCNode *_currentPenguin;
+    Penguin *_currentPenguin;
     CCPhysicsJoint *_penguinCatapultJoint;
     CCAction *_followPenguin;
     
@@ -105,7 +105,6 @@ static const float MIN_SPEED = 5.f;
         _followPenguin = [CCActionFollow actionWithTarget:_currentPenguin worldBoundary:self.boundingBox];
         [_contentNode runAction:_followPenguin];
         _currentPenguin.launched = TRUE;
-        
     }
 }
 
