@@ -4389,7 +4389,7 @@
 		<key>children</key>
 		<array/>
 		<key>customClass</key>
-		<string>waitingPeguin</string>
+		<string>waitingPenguin</string>
 		<key>displayName</key>
 		<string>CCSprite</string>
 		<key>memberVarAssignmentName</key>
