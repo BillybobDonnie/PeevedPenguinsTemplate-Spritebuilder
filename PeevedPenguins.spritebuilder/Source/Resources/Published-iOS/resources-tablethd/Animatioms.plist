@@ -1,0 +1,1578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Animatioms/1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{711, 485}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{597, 245}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/100.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1369, 121}, {118, 92}}</string>
+			<key>offset</key>
+			<string>{0, -27}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 56}, {118, 92}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/101.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1925, 87}, {118, 84}}</string>
+			<key>offset</key>
+			<string>{0, -33}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 66}, {118, 84}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/102.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1685, 173}, {118, 84}}</string>
+			<key>offset</key>
+			<string>{0, -33}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 66}, {118, 84}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/103.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1565, 177}, {118, 84}}</string>
+			<key>offset</key>
+			<string>{0, -33}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 66}, {118, 84}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/104.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1805, 173}, {118, 84}}</string>
+			<key>offset</key>
+			<string>{0, -33}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 66}, {118, 84}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/105.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1685, 1}, {118, 84}}</string>
+			<key>offset</key>
+			<string>{0, -33}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 66}, {118, 84}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/106.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1925, 1}, {118, 84}}</string>
+			<key>offset</key>
+			<string>{0, -33}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 66}, {118, 84}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/107.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1685, 87}, {118, 84}}</string>
+			<key>offset</key>
+			<string>{0, -33}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 66}, {118, 84}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/108.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1565, 91}, {118, 84}}</string>
+			<key>offset</key>
+			<string>{0, -33}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 66}, {118, 84}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/109.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1805, 87}, {118, 84}}</string>
+			<key>offset</key>
+			<string>{0, -33}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 66}, {118, 84}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{943, 361}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/110.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1805, 1}, {118, 84}}</string>
+			<key>offset</key>
+			<string>{0, -33}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 66}, {118, 84}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/111.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{355, 911}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/112.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{945, 1}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/113.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{945, 241}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/114.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1051, 241}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/115.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1059, 481}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/116.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{831, 845}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/117.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{827, 361}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/118.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{827, 601}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/119.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{829, 1}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{711, 605}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/120.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{713, 1}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{591, 787}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{939, 721}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{707, 747}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/16.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1275, 841}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/17.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1161, 721}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/18.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1055, 721}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/19.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1165, 601}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{943, 481}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/20.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1263, 1}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/21.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{713, 121}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/22.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{595, 387}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/23.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{829, 121}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/24.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{711, 365}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/25.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{475, 907}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/26.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1157, 241}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/27.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{945, 121}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/28.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1267, 721}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/29.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1059, 601}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{595, 507}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/30.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1157, 121}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/31.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{595, 627}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/32.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{943, 601}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/33.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{823, 725}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/34.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{595, 907}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/35.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{947, 841}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/36.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1051, 1}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/37.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1263, 121}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/38.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1169, 841}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/39.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1063, 841}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{827, 481}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/40.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1051, 121}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/41.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1467, 721}, {118, 92}}</string>
+			<key>offset</key>
+			<string>{0, -29}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 58}, {118, 92}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/42.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1369, 1}, {118, 92}}</string>
+			<key>offset</key>
+			<string>{0, -29}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 58}, {118, 92}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/43.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1271, 601}, {118, 92}}</string>
+			<key>offset</key>
+			<string>{0, -29}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 58}, {118, 92}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/44.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1459, 481}, {118, 92}}</string>
+			<key>offset</key>
+			<string>{0, -29}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 58}, {118, 92}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/45.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1365, 601}, {118, 92}}</string>
+			<key>offset</key>
+			<string>{0, -29}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 58}, {118, 92}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/46.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1475, 841}, {118, 88}}</string>
+			<key>offset</key>
+			<string>{0, -31}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 62}, {118, 88}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/47.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1463, 241}, {118, 88}}</string>
+			<key>offset</key>
+			<string>{0, -31}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 62}, {118, 88}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/48.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1463, 121}, {118, 88}}</string>
+			<key>offset</key>
+			<string>{0, -31}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 62}, {118, 88}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/49.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1565, 1}, {118, 88}}</string>
+			<key>offset</key>
+			<string>{0, -31}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 62}, {118, 88}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{475, 787}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/50.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1463, 1}, {118, 88}}</string>
+			<key>offset</key>
+			<string>{0, -31}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 62}, {118, 88}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/51.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1369, 241}, {118, 92}}</string>
+			<key>offset</key>
+			<string>{0, -29}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 58}, {118, 92}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/52.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1365, 361}, {118, 92}}</string>
+			<key>offset</key>
+			<string>{0, -29}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 58}, {118, 92}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/53.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1459, 601}, {118, 92}}</string>
+			<key>offset</key>
+			<string>{0, -29}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 58}, {118, 92}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/54.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1373, 721}, {118, 92}}</string>
+			<key>offset</key>
+			<string>{0, -29}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 58}, {118, 92}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/55.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1271, 361}, {118, 92}}</string>
+			<key>offset</key>
+			<string>{0, -29}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 58}, {118, 92}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/56.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1165, 481}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/57.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1059, 361}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/58.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1263, 241}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/59.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1157, 1}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{715, 867}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/60.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1165, 361}, {118, 104}}</string>
+			<key>offset</key>
+			<string>{0, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 46}, {118, 104}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/61.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{355, 787}, {122, 118}}</string>
+			<key>offset</key>
+			<string>{-2, -16}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{12, 32}, {122, 118}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/62.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{475, 663}, {122, 118}}</string>
+			<key>offset</key>
+			<string>{-2, -16}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{12, 32}, {122, 118}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/63.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{477, 139}, {122, 118}}</string>
+			<key>offset</key>
+			<string>{-2, -16}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{12, 32}, {122, 118}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/64.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{355, 539}, {122, 118}}</string>
+			<key>offset</key>
+			<string>{-2, -16}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{12, 32}, {122, 118}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/65.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{477, 263}, {122, 118}}</string>
+			<key>offset</key>
+			<string>{-2, -16}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{12, 32}, {122, 118}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/66.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{117, 1}, {140, 114}}</string>
+			<key>offset</key>
+			<string>{1, -10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 28}, {140, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/67.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 143}, {140, 114}}</string>
+			<key>offset</key>
+			<string>{1, -10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 28}, {140, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/68.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{117, 427}, {140, 114}}</string>
+			<key>offset</key>
+			<string>{1, -10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 28}, {140, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/69.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 569}, {140, 114}}</string>
+			<key>offset</key>
+			<string>{1, -10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 28}, {140, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{829, 241}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/70.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 853}, {140, 114}}</string>
+			<key>offset</key>
+			<string>{1, -10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 28}, {140, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/71.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{349, 1}, {136, 120}}</string>
+			<key>offset</key>
+			<string>{-1, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 16}, {136, 120}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/72.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{355, 139}, {136, 120}}</string>
+			<key>offset</key>
+			<string>{-1, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 16}, {136, 120}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/73.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{233, 557}, {136, 120}}</string>
+			<key>offset</key>
+			<string>{-1, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 16}, {136, 120}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/74.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{355, 277}, {136, 120}}</string>
+			<key>offset</key>
+			<string>{-1, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 16}, {136, 120}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/75.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{233, 833}, {136, 120}}</string>
+			<key>offset</key>
+			<string>{-1, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 16}, {136, 120}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/76.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{233, 281}, {136, 120}}</string>
+			<key>offset</key>
+			<string>{-1, 3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 12}, {136, 120}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/77.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{471, 1}, {136, 120}}</string>
+			<key>offset</key>
+			<string>{-1, 3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 12}, {136, 120}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/78.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{233, 695}, {136, 120}}</string>
+			<key>offset</key>
+			<string>{-1, 3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 12}, {136, 120}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/79.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{233, 143}, {136, 120}}</string>
+			<key>offset</key>
+			<string>{-1, 3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 12}, {136, 120}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{597, 125}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/80.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{233, 419}, {136, 120}}</string>
+			<key>offset</key>
+			<string>{-1, 3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 12}, {136, 120}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/81.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{117, 711}, {140, 114}}</string>
+			<key>offset</key>
+			<string>{1, 2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 16}, {140, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/82.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 711}, {140, 114}}</string>
+			<key>offset</key>
+			<string>{1, 2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 16}, {140, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/83.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {140, 114}}</string>
+			<key>offset</key>
+			<string>{1, 2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 16}, {140, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/84.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{117, 285}, {140, 114}}</string>
+			<key>offset</key>
+			<string>{1, 2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 16}, {140, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/85.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 427}, {140, 114}}</string>
+			<key>offset</key>
+			<string>{1, 2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 16}, {140, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/86.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{117, 853}, {140, 114}}</string>
+			<key>offset</key>
+			<string>{1, -6}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 24}, {140, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/87.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{117, 143}, {140, 114}}</string>
+			<key>offset</key>
+			<string>{1, -6}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 24}, {140, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/88.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 285}, {140, 114}}</string>
+			<key>offset</key>
+			<string>{1, -6}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 24}, {140, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/89.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{117, 569}, {140, 114}}</string>
+			<key>offset</key>
+			<string>{1, -6}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 24}, {140, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{713, 241}, {118, 114}}</string>
+			<key>offset</key>
+			<string>{0, -18}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 36}, {118, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/90.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{233, 1}, {140, 114}}</string>
+			<key>offset</key>
+			<string>{1, -6}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 24}, {140, 114}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/91.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{475, 415}, {122, 118}}</string>
+			<key>offset</key>
+			<string>{-2, -14}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{12, 30}, {122, 118}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/92.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{355, 415}, {122, 118}}</string>
+			<key>offset</key>
+			<string>{-2, -14}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{12, 30}, {122, 118}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/93.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{593, 1}, {122, 118}}</string>
+			<key>offset</key>
+			<string>{-2, -14}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{12, 30}, {122, 118}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/94.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{355, 663}, {122, 118}}</string>
+			<key>offset</key>
+			<string>{-2, -14}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{12, 30}, {122, 118}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/95.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{475, 539}, {122, 118}}</string>
+			<key>offset</key>
+			<string>{-2, -14}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{12, 30}, {122, 118}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/96.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1381, 841}, {118, 92}}</string>
+			<key>offset</key>
+			<string>{0, -27}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 56}, {118, 92}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/97.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1271, 481}, {118, 92}}</string>
+			<key>offset</key>
+			<string>{0, -27}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 56}, {118, 92}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/98.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1459, 361}, {118, 92}}</string>
+			<key>offset</key>
+			<string>{0, -27}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 56}, {118, 92}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+		<key>Animatioms/99.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1365, 481}, {118, 92}}</string>
+			<key>offset</key>
+			<string>{0, -27}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 56}, {118, 92}}</string>
+			<key>sourceSize</key>
+			<string>{150, 150}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{2048, 1024}</string>
+		<key>textureFileName</key>
+		<string>Animatioms.png</string>
+	</dict>
+</dict>
+</plist>
