@@ -10,7 +10,7 @@
 		<false/>
 	</dict>
 	<key>UUID</key>
-	<integer>35</integer>
+	<integer>40</integer>
 	<key>centeredOrigin</key>
 	<false/>
 	<key>currentResolution</key>
@@ -598,7 +598,7 @@
 							</dict>
 							<dict>
 								<key>UUID</key>
-								<integer>32</integer>
+								<integer>37</integer>
 								<key>baseClass</key>
 								<string>CCBFile</string>
 								<key>children</key>
@@ -606,7 +606,7 @@
 								<key>customClass</key>
 								<string></string>
 								<key>displayName</key>
-								<string>waitingPenguin1</string>
+								<string>WaitingPenguins1</string>
 								<key>memberVarAssignmentName</key>
 								<string></string>
 								<key>memberVarAssignmentType</key>
@@ -628,8 +628,8 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
-											<real>28</real>
-											<real>31</real>
+											<real>30</real>
+											<real>54</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -660,7 +660,7 @@
 							</dict>
 							<dict>
 								<key>UUID</key>
-								<integer>33</integer>
+								<integer>38</integer>
 								<key>baseClass</key>
 								<string>CCBFile</string>
 								<key>children</key>
@@ -668,7 +668,7 @@
 								<key>customClass</key>
 								<string></string>
 								<key>displayName</key>
-								<string>waitingPenguin2</string>
+								<string>WaitingPeguins2</string>
 								<key>memberVarAssignmentName</key>
 								<string></string>
 								<key>memberVarAssignmentType</key>
@@ -691,7 +691,7 @@
 										<key>value</key>
 										<array>
 											<real>70</real>
-											<real>32</real>
+											<real>54</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -722,7 +722,7 @@
 							</dict>
 							<dict>
 								<key>UUID</key>
-								<integer>34</integer>
+								<integer>39</integer>
 								<key>baseClass</key>
 								<string>CCBFile</string>
 								<key>children</key>
@@ -730,7 +730,7 @@
 								<key>customClass</key>
 								<string></string>
 								<key>displayName</key>
-								<string>waitingPenguin3</string>
+								<string>WaitingPeguins3</string>
 								<key>memberVarAssignmentName</key>
 								<string></string>
 								<key>memberVarAssignmentType</key>
@@ -752,8 +752,8 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
-											<real>115</real>
-											<real>27</real>
+											<real>110</real>
+											<real>54</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
