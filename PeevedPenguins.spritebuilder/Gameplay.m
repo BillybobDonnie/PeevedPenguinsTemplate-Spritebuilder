@@ -140,4 +140,9 @@
     CCLOG(@"Something collided with a seal!");
 }
 
+-(void)ccPhysicsCollisionPostSolve:(CCPhysicsCollisionPair *)pair penguin:(CCNode *)nodeA wildcard:(CCNode *)nodeB
+{
+    CCLOG(@"Something collided with a penguin!");
+}
+
 @end
